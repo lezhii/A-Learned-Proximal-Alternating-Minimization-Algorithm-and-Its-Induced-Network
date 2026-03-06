@@ -1,6 +1,6 @@
 This is the code for the publication "A Learned Proximal Alternating Minimization Algorithm and Its Induced Network for a Class of Two-Block Nonconvex and Nonsmooth Optimization"
 
-The data.py is not uploaded. You can create a dataloader yourself. In this code, k1 is kspace image for T1; k2 is kspace image for T2. t1 is ground truth image for T1; k2 is ground truth image for T2. kx1 is undersampled image for T1 and kx2 is undersampled image for T2. kx1 and kx2 are updated for each epoch.
+The data.py is not uploaded. You can create a dataloader yourself. In this code, k1 is kspace image for T1; k2 is kspace image for T2. t1 is ground truth image for T1; k2 is ground truth image for T2. kx1 is undersampled image for T1 and kx2 is undersampled image for T2. kx1 and kx2 are updated each epoch.
 
 Use "python main.py" to train and test. When testing, command the training part in main.py.
 
