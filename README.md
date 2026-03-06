@@ -1,4 +1,10 @@
-LPAM-Net
+LPAM-Net 
+
+(https://link.springer.com/article/10.1007/s10915-025-02874-5)
+
+(https://www.researchgate.net/publication/385721528_A_Learned_Proximal_Alternating_Minimization_Algorithm_and_Its_Induced_Network_for_a_Class_of_Two-block_Nonconvex_and_Nonsmooth_Optimization)
+
+(https://arxiv.org/abs/2411.06333)
 
 This is the code for the publication "A Learned Proximal Alternating Minimization Algorithm and Its Induced Network for a Class of Two-Block Nonconvex and Nonsmooth Optimization"
 
